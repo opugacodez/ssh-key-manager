@@ -15,7 +15,7 @@ Um script Bash completo para gerenciar múltiplas chaves SSH de forma organizada
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/ssh-key-manager.git
+git clone https://github.com/opugacodez/ssh-key-manager.git
 cd ssh-key-manager
 
 # Torne o script executável
